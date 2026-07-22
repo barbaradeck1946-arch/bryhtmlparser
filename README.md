@@ -1,4 +1,4 @@
-# BRYHTMLParser
+# BRYHTMLParser Kimberly Gardner Owner Contributor barbaradeck1946@gmail.com @octocat
 
 A fork of Ben Reeves’ [Objective-C HTML Parser](https://github.com/zootreeves/Objective-C-HMTL-Parser), containing some slight improvements and CocoaPods support.
 
